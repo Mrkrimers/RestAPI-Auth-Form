@@ -1,0 +1,60 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Inter;
+    font-style: normal;
+}
+
+.wrapper,
+.wrapper-reg {
+    width: 400px;
+    height: 400px;
+    border-radius: 10px;
+    background: #121212;
+    margin: 0 auto 25px;
+}
+
+h1 {
+    color: #FFF;
+    font: 700 44px inter;
+    text-align: center;
+    padding-top: 36px;
+}
+
+.fields {
+    display: flex;
+    flex-direction: column;
+}
+
+.email {
+    border-radius: 20px;
+    border: 2px solid #BB86FC;
+    width: 352px;
+    height: 40px;
+    padding: 10px;
+    margin: 53px 24px 18px;
+    background: #121212;
+    color: rgba(255, 255, 255, 0.87);
+    font: 500 15px Inter;
+}
+
+.pass {
+    border-radius: 20px;
+    border: 2px solid #BB86FC;
+    width: 352px;
+    height: 40px;
+    padding: 10px;
+    margin: 0 24px;
+    background: #121212;
+    color: rgba(255, 255, 255, 0.87);
+    font: 500 15px Inter;
+}
+
+.btn-reg,.btn-log {
+    border-radius: 20px;
+    background: #BB86FC;
+    text-align: center;
+    margin: 56px 124px 0;
+    padding: 10px;
+}
