@@ -27,7 +27,8 @@ h1 {
     flex-direction: column;
 }
 
-.email {
+.email,
+.email-log {
     border-radius: 20px;
     border: 2px solid #BB86FC;
     width: 352px;
@@ -39,7 +40,8 @@ h1 {
     font: 500 15px Inter;
 }
 
-.pass {
+.pass,
+.pass-log {
     border-radius: 20px;
     border: 2px solid #BB86FC;
     width: 352px;
@@ -51,7 +53,8 @@ h1 {
     font: 500 15px Inter;
 }
 
-.btn-reg,.btn-log {
+.btn-reg,
+.btn-log {
     border-radius: 20px;
     background: #BB86FC;
     text-align: center;

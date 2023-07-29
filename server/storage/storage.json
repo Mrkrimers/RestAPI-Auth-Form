@@ -38,5 +38,30 @@
         "id": "4a5aa0e0-2d49-11ee-9563-89f0aa064029",
         "email": "sasha@mail.ru",
         "pwd": "$2b$10$3SWEsUkSRcDnQqlXn6oyZeXaqosTpPX/RFd7.JqNEh1jzjKEd319q"
+    },
+    {
+        "id": "dd888260-2d62-11ee-8ddc-51d45596c312",
+        "email": "alex@mail.ru",
+        "pwd": "$2b$10$AdWnegSuJU.G6pRdNVkt1u3BYN94JHdZ2VmLuUKMveBz.flThpBpm"
+    },
+    {
+        "id": "24af6de0-2e42-11ee-ab2e-550b078d041d",
+        "emal": "sasha@mail.ru",
+        "pwd": "$2b$10$1PoX4BSil88y090dkTO3oumghsyXLGnyNEI8LHFU2LOQVU42oqncm"
+    },
+    {
+        "id": "428752d0-2e45-11ee-aae0-572007b60334",
+        "email": "qqq@qqq.ru",
+        "pwd": "$2b$10$Vo5x8UtyDXGWeNWj.QXPqO66Hx4/hjuOrk2mB1w4kbA0ohHqeq4XC"
+    },
+    {
+        "id": "bc288fa0-2e45-11ee-b7db-bbc1208e62c6",
+        "email": "qwer@qwer.ru",
+        "pwd": "$2b$10$7VwviGMWxCbxKXQ9mL1VMOW/5HmANK9MFteW3DYzVt7/rWguifrJe"
+    },
+    {
+        "id": "d87743e0-2e45-11ee-a12b-51284f5077cc",
+        "email": "asdf@asdf.ru",
+        "pwd": "$2b$10$FNRnnCFWl.eMS7b3h9Bra.x/bqWrD921w/Z4hn1575A.uQ81snPDa"
     }
 ]
