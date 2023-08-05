@@ -1,8 +1,14 @@
 # RestAPI-Auth-Form
 
+### Client side:
 <p>
-  This is a two-page project with implemented registration and authorization. The project implemented checks for the correctness of data entry and displayed the 
-  ability to work with regex and a native server on NodeJS with JavaScript implementation SOLID and REST principles
+  This is a page project with implemented registration and authorization. The project implemented checks for the correctness of data entry and displayed the 
+  ability to work with regex 
+</p>
+
+### Server side:
+<p>
+  A native server on NodeJS with JavaScript implementation SOLID and REST principles
 </p>
 
 ### :hammer_and_wrench: Languages and Tools :
